@@ -10,4 +10,4 @@
 2. Excel
 
 # This is how the dashboard look's :
- 
+ https://github.com/rohising2045/Sales-Dashboard/blob/main/Screenshot%202025-05-27%20050618.png
